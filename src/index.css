@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-maroon: #7f0c36;
+  --color-brand-maroon-dark: #5c0824;
+  --color-brand-red: #e42e10;
+  --color-brand-gold: #fdb304;
+  --color-brand-cream: #fff8f0;
+}
